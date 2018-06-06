@@ -28,6 +28,7 @@
             android:layout_centerInParent="false"
             android:layout_centerVertical="false"
             android:background="@color/colorPrimaryDark"
+            android:gravity="center"
             android:text="@string/header"
             android:textSize="23sp" />
 
@@ -49,7 +50,7 @@
     </LinearLayout>
 
     <RelativeLayout
-        android:layout_width="wrap_content"
+        android:layout_width="331dp"
         android:layout_height="0dp"
         android:layout_weight="1">
 
